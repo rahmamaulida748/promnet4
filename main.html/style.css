@@ -1,0 +1,133 @@
+.heading2 {
+    font-size: 140%;
+
+}
+
+.heading {
+    color: rgb(250, 246, 0);
+    text-align: center;
+    font-size: 180%;
+}
+
+.heading3 {
+    color: rgb(250, 246, 0);
+    text-align: center;
+    font-size: 180%;
+}
+
+.pengertian {
+    text-align: center;
+    width: 35%;
+    font-size: 130%;
+    color: rgb(250, 246, 0)
+    
+}
+
+.fungsi {
+    text-align: center;
+    width: 35%;
+    font-size: 130%;
+    color: rgb(250, 246, 0)
+}
+
+.utama {
+    text-align: left;
+    width: 50%;
+    text-align: center;
+    width: 100%;
+    top : 20%;
+    left : 200%;
+}
+
+.Alat {
+    text-align: center;
+    width: 35%;
+    font-size: 130%;
+    color: rgb(250, 246, 0)
+}
+
+.git {
+    text-align: center;
+    width: 35%;
+    font-size: 130%;
+    color: rgb(250, 246, 0)
+
+}
+
+body {
+    background-color: rgb(0, 6, 94);
+    font-size: 120%;
+    color: rgb(255, 255, 255);
+}
+
+.sebelum {
+    text-align: center;
+    width: 25%;
+}
+
+.sesudah {
+    text-align: center;
+    width: 25%;
+}
+
+.manfaat {
+    text-align: center;
+    width: 35%;
+    font-size: 130%;
+    color: rgb(250, 246, 0)
+}
+
+.fitur {
+    text-align: center;
+    width: 35%;
+    font-size: 130%;
+    color: rgb(250, 246, 0)
+}
+
+.alur {
+    text-align: center;
+    width: 35%;
+    font-size: 130%;
+    color: rgb(250, 246, 0)
+}
+
+.kelebihan {
+    text-align: center;
+    width: 35%;
+    font-size: 130%;
+    color: rgb(250, 246, 0)
+}
+
+.kekurangan {
+    text-align: center;
+    width: 35%;
+    font-size: 130%;
+    color: rgb(250, 246, 0)
+}
+
+.perbedaan {
+    text-align: center;
+    width: 35%;
+    font-size: 130%;
+    color: rgb(250, 246, 0)
+}
+
+.fotogit {
+    text-align: center;
+    width: 30%;
+
+}
+
+.github {
+    text-align: center;
+    width: 30%;
+}
+
+.sumber {
+    text-align: center;
+    font-size: 130%;
+    color: rgb(250, 246, 0)
+}
+
+
+
