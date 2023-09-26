@@ -7,18 +7,20 @@
   <link rel="stylesheet" href="style.css">
 </head>
 <body>
+  <h1 class="heading1">Profil Page</h1>
   <header>
-    <h1>Profil Page</h1>
     <div class="logo">
       <img src="rahma.jpeg" alt="">
     </div>
 
-    <h2 class="heading2">About Me</h2>
-    <p>Saya Rahma Maulida kelas 3A PSTI UPI Purwakarta, Saya berdomisili Purwakarta, </p>
-    <p><a href=""> Continue</a><br></p><br><br>
+    <h1 class="heading1">About Me</h1>
+    <p>Saya Rahma Maulida dengan NIM 2209744 jurusan Pendidikan Sistem</p>
+    <p>Teknologi Informasi (PSTI) di Universitas Pendidikan Indonesia </p>
+    <p>(UPI) kampus daerah Purwakarta. Saya berdomisili di Purwakarta.
+    <a href=""> Continue</a><br><br><br>
   </header>
   
-  <center><table width="350px" border="1px" cellpadding="5"></center>
+  <center><table width="350px" border="" cellpadding="5"></center>
       
     <tr>
         <td>Nama</td>
@@ -42,22 +44,39 @@
     
 </table><br><br>
 
-<div class="box"><h2 class="heading2">Text Me</h2><br>
+<div class="box"><h2 class="heading2">Text Me</h2>
   <form>  
-    <label for="email"> Email:</label>
-    <input type="text"><br><br>
-    <label for="country"> Country:</label>
-    <input type="text"><br><br>
-    <label for="massange"> Massange</label>
-    <input type="text"><br><br>
+    <label for="Email"> Email :</label>
+    <textarea name="komentar1">
+        example@gmail.com
+      </textarea><br><br>
+    <label for="country">Country :</label>
+    <input type="text" list="countries" name="mycountry" />
+<datalist id="countries">
+    <option value="Albania">Albania</option>
+    <option value="Brazil">Brazil</option>
+    <option value="Canada">Canada</option>
+    <option value="Denmark">Denmark</option>
+    <option value="Ethiopia">Ethiopia</option>
+    <option value="Ghana">Ghana</option>
+    <option value="Honduras">Hounduras</option>
+    <option value="Indonesia">Indonesia</option>
+    <option value="Malaysia">Malaysia</option>
+    <option value="Thailand">Thailand</option>
+    <option value="Jerman">Jerman</option>
+    <option value="Itali">Itali</option>
+    <option value="Australia">Australia</option>
+    <option value="Jepang">Jepang</option>
+    <option value="Korea">Korea</option>
+    <option value="Myanmar">Myanmar</option>
+    <option value="Belanda">Belanda</option>
+    <option value="India">India</option>
+</datalist><br><br>
+<label for="Massage"> Massage :</label>
+<textarea name="komentar1">
+    write something..
+  </textarea><br><br>
     <center><input type="submit" value="send"></center>
   </form><br><br></div><br><br>
-
-
-
-
-
-
-
 </body>
 </html>

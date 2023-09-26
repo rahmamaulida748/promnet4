@@ -1,12 +1,14 @@
 body{
     text-align: center;
+    background-color: #ffa1b6;
 
 }
 
 .heading2 {
-    color: rgb(0, 35, 151);
+    color: #040a24;
 
 }
+
 
 .logo {
     width: 100%;
@@ -22,12 +24,16 @@ img {
   }
 
 table {
-    border-color: blue; 
+    border-color: #0531f7; 
 }
 
 .box {
     width: 350px;
     height: 250px;
-    background-color: rgb(194, 189, 189);
+    background-color: #fdfae8;
+}
+
+.heading1 {
+    color: #040a24;
 }
 
